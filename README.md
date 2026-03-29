@@ -1,4 +1,4 @@
-# 🔭 Stellar Diary (Project Lumen)
+# 🔭 Stellar Diary
 
 > **A specialized observation logger for visual astronomy**
 
