@@ -20,7 +20,7 @@ Stellar Diary is currently in the early stages of development. It is being built
 ---
 
 ### 🌌 What it does (Current & Planned Features)
-* Structured logging for celestial events and deep-sky objects.
+* Structured logging for stars and plants visible with nacked eyes.
 * Special mechanism to recreate the sky of a specific night according to the observation
 * Integrated local database for fast, private record-keeping.
 
